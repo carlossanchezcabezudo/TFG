@@ -60,24 +60,6 @@ The social and economic impact of untreated mental health issues is staggering. 
 
 ---
 
-## 🧱 Methodology
-
-### 📆 Project Timeline
-
-```mermaid
-gantt
-    title Project Timeline
-    dateFormat  YYYY-MM
-    section Dataset Construction
-    Recompile Video Data         :done, 2024-12, 15d
-    Build the Dataset            :done, 2025-01, 20d
-    section Model Building
-    API Analysis + Model Start   :done, 2025-02, 25d
-    Multivariate Model Dev       :done, 2025-03, 30d
-    section Validation & Results
-    Model Tuning & Monitoring    :done, 2025-04, 20d
-    Evaluation + Conclusions     :done, 2025-05, 25d
-
 ## 🔄 Pipeline Summary
 
 The following summarizes the end-to-end workflow of the project:
